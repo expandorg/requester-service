@@ -1,0 +1,6 @@
+/requester-service
+/deployment/requester-service-linux
+/deployment/requester-service-local
+/deployment/ropsten.env
+/deployment/production.env
+.idea
