@@ -4,8 +4,8 @@ import (
 	"errors"
 	"mime/multipart"
 
+	"github.com/expandorg/requester-service/pkg/svc-kit/svc"
 	"github.com/expandorg/requester-service/pkg/upload"
-	"github.com/gemsorg/svc-kit/svc"
 	"github.com/globalsign/mgo/bson"
 )
 

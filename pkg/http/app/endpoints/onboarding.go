@@ -3,7 +3,7 @@ package endpoints
 import (
 	"github.com/expandorg/requester-service/pkg/http/app/ctx"
 	"github.com/expandorg/requester-service/pkg/onboardingtemplate"
-	"github.com/gemsorg/svc-kit/http/api"
+	"github.com/expandorg/requester-service/pkg/svc-kit/http/api"
 	"github.com/gin-gonic/gin"
 )
 

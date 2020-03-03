@@ -7,13 +7,13 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/gemsorg/svc-kit/svc"
 	"github.com/globalsign/mgo/bson"
 
 	"github.com/expandorg/requester-service/pkg/app"
 	"github.com/expandorg/requester-service/pkg/backend"
 	m "github.com/expandorg/requester-service/pkg/model"
 	"github.com/expandorg/requester-service/pkg/nulls"
+	"github.com/expandorg/requester-service/pkg/svc-kit/svc"
 )
 
 // Service interface.

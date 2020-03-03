@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/gemsorg/svc-kit/cfg/env"
+	"github.com/expandorg/requester-service/pkg/svc-kit/cfg/env"
 	"github.com/globalsign/mgo"
 )
 

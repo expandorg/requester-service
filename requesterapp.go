@@ -12,12 +12,12 @@ import (
 	"github.com/expandorg/requester-service/pkg/http/app"
 	"github.com/expandorg/requester-service/pkg/onboardingtemplate"
 	"github.com/expandorg/requester-service/pkg/publisher"
+	"github.com/expandorg/requester-service/pkg/svc-kit/cfg/env"
+	"github.com/expandorg/requester-service/pkg/svc-kit/http/api"
+	"github.com/expandorg/requester-service/pkg/svc-kit/mongo"
 	"github.com/expandorg/requester-service/pkg/taskdata"
 	"github.com/expandorg/requester-service/pkg/thumbnailupload"
 	"github.com/expandorg/requester-service/pkg/upload"
-	"github.com/gemsorg/svc-kit/cfg/env"
-	"github.com/gemsorg/svc-kit/http/api"
-	"github.com/gemsorg/svc-kit/mongo"
 )
 
 func main() {

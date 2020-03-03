@@ -3,7 +3,7 @@ package api
 import (
 	"net/http"
 
-	"github.com/gemsorg/svc-kit/svc"
+	"github.com/expandorg/requester-service/pkg/svc-kit/svc"
 )
 
 // Error Api struct

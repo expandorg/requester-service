@@ -7,8 +7,8 @@ import (
 	"github.com/expandorg/requester-service/pkg/http/app/permissions"
 	m "github.com/expandorg/requester-service/pkg/model"
 	"github.com/expandorg/requester-service/pkg/publisher"
+	"github.com/expandorg/requester-service/pkg/svc-kit/http/api"
 	"github.com/expandorg/requester-service/pkg/taskdata"
-	"github.com/gemsorg/svc-kit/http/api"
 	"github.com/gin-gonic/gin"
 )
 

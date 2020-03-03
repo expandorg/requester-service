@@ -7,8 +7,8 @@ import (
 	bugsnag "github.com/bugsnag/bugsnag-go"
 	"github.com/expandorg/requester-service/pkg/http/auth"
 	"github.com/expandorg/requester-service/pkg/logger"
-	"github.com/gemsorg/svc-kit/cfg/env"
-	"github.com/gemsorg/svc-kit/http/api"
+	"github.com/expandorg/requester-service/pkg/svc-kit/cfg/env"
+	"github.com/expandorg/requester-service/pkg/svc-kit/http/api"
 	"github.com/gin-gonic/gin"
 )
 

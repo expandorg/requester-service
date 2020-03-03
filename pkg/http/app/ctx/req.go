@@ -2,7 +2,7 @@ package ctx
 
 import (
 	"github.com/expandorg/requester-service/pkg/app"
-	"github.com/gemsorg/svc-kit/mongo"
+	"github.com/expandorg/requester-service/pkg/svc-kit/mongo"
 	"github.com/gin-gonic/gin"
 )
 

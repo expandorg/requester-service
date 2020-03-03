@@ -3,7 +3,7 @@ package draftservice
 import (
 	"github.com/expandorg/requester-service/pkg/app"
 	m "github.com/expandorg/requester-service/pkg/model"
-	"github.com/gemsorg/svc-kit/mongo"
+	"github.com/expandorg/requester-service/pkg/svc-kit/mongo"
 
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"

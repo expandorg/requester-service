@@ -34,10 +34,6 @@
   version = "1.5.1"
 
 [[constraint]]
-  branch = "master"
-  name = "github.com/gemsorg/svc-kit"
-
-[[constraint]]
   name = "github.com/gin-gonic/gin"
   version = "1.3.0"
 

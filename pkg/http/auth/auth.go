@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/expandorg/requester-service/pkg/backend"
-	"github.com/gemsorg/svc-kit/http/api"
+	"github.com/expandorg/requester-service/pkg/svc-kit/http/api"
 	"github.com/gin-gonic/gin"
 )
 

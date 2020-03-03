@@ -7,8 +7,8 @@ import (
 
 	"github.com/expandorg/requester-service/pkg/app"
 	m "github.com/expandorg/requester-service/pkg/model"
+	"github.com/expandorg/requester-service/pkg/svc-kit/mongo"
 	"github.com/expandorg/requester-service/pkg/upload"
-	"github.com/gemsorg/svc-kit/mongo"
 )
 
 const (
